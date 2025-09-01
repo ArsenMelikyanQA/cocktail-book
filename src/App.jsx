@@ -13,7 +13,7 @@ const COCKTAILS = [
     description:
       "A crisp, zesty highball with vodka, lime, and fiery ginger beer. Traditionally served in a copper mug.",
     ingredients: [
-      { name: "Vodka", amount: 50, unit: "ml", bottleImage: "https://placehold.co/600x800/png?text=Vodka" },
+      { name: "Vodka", amount: 50, unit: "ml", bottleImage: "/images/absolute.jpg" },
       { name: "Fresh lime juice", amount: 15, unit: "ml", bottleImage: "https://placehold.co/600x800/png?text=Lime+Juice" },
       { name: "Ginger beer (top up)", amount: null, unit: null, bottleImage: "https://placehold.co/600x800/png?text=Ginger+Beer" },
       { name: "Simple syrup (optional)", amount: 5, unit: "ml", bottleImage: "https://placehold.co/600x800/png?text=Simple+Syrup" },
